@@ -215,3 +215,16 @@ footer{
     position:sticky;
 
 }
+
+#chat-with-me{
+    position:sticky;
+    bottom: 50px;
+    text-align: right;
+}
+.btnn{
+    padding: 8px 10px;
+    border: 5px solid #eee7e7;
+    background-color:lightpink;
+    border-radius: 70px;
+    font-size: 1.3rem;
+}
